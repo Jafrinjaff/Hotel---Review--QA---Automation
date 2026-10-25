@@ -1,4 +1,4 @@
-# Hotel Review QA Data Validation Automation
+# Hotel Review QA Automation
 **Status: In Progress**
 
 A personal Python project to automate a manual hotel review validation workflow. It uses synthetic practice data only. No company data or code is used.
