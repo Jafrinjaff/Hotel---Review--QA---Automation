@@ -1,7 +1,7 @@
 # Hotel Review QA Automation
 Status: In Progress
 
-A personal Python project to automate a manual hotel review validation workflow. It uses synthetic practice data only. No company data or code is used.
+A personal Python project to automate a manual hotel review validation workflow, using Selenium and MongoDB.
 
 Background: This project is inspired by the manual data validation work I do as a QA-focused Junior Data Analyst. It is my own independent practice project to learn test automation, built with synthetic data only. No company data, code or tools are used.
 
